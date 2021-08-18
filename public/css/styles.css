@@ -33,6 +33,10 @@ body {
   .item:last-child {
     border-bottom: 0;
   }
+
+  .new-item {
+    color: rgb(88, 88, 88);
+  }
   
   input:checked+p {
     text-decoration: line-through;
